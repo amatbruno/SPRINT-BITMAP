@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">M8-Sprint3-amatbruno</string>
+    <string name="introduce_the_rows">Introduce the rows</string>
+    <string name="introduce_the_columns">Introduce the columns</string>
+</resources>
